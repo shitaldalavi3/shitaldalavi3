@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Shital Dalavi
 Backend Developer | Full Stack Entusiast 
-, a Backend Developer with 5 years of experience, now diving into the Full Stack world. I'm passionate about building efficient and user-friendly applications.
+Backend Developer with 5 years of experience, now diving into the Full Stack world. I'm passionate about building efficient and user-friendly applications.
 
 ### 🔭 Tech Stack 
 *   **Backend:** Java, Spring Boot, SQL, DBMS
