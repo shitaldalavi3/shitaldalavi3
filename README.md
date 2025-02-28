@@ -6,23 +6,23 @@ With 5 years of experience in Backend Java development, I'm passionate about bui
 
 Here are some ideas to get you started:-->
 
-- 🔭 Tech Stack 
+- #### 🔭 Tech Stack 
 - Backend:
 
--- Java (OOP)
--- Spring Boot
--- SQL
--- DBMS
--- JUnit
+- Java (OOP)
+- Spring Boot
+- SQL
+- DBMS
+- JUnit
 Postman
 
 Frontend:
--- HTML, CSS
--- JavaScript
--- React
--- Tailwind CSS
--- Daisy UI
--- Figma
+- HTML, CSS
+- JavaScript
+- React
+- Tailwind CSS
+- Daisy UI
+- Figma
 
 Other:
 Node.js
