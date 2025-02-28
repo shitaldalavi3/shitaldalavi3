@@ -1,10 +1,6 @@
 ### Hi there 👋  I'm Shital Dalavi
 Backend Developer | Full Stack Entusiast 
 With 5 years of experience in Backend Java development, I'm passionate about building robust and scalable applications. Recently, I've expanded my skills to include Full Stack development, embracing new technologies and methodologies.
-<!--
-**shitaldalavi3/shitaldalavi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
 
 🔭 Tech Stack 
 Backend:
@@ -47,12 +43,6 @@ Other:
 - Generative AI
 - Internet of Things(IoT)
 
-- 📫 How to reach me: ...
+📫 How to reach me: ...
 LinkedIn :www.linkedin.com/in/shital-dalavi
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
