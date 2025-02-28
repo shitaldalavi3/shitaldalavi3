@@ -6,7 +6,7 @@ With 5 years of experience in Backend Java development, I'm passionate about bui
 
 Here are some ideas to get you started:-->
 
-- #### 🔭 Tech Stack 
+🔭 Tech Stack 
 - Backend:
 
 - Java (OOP)
