@@ -7,14 +7,13 @@ With 5 years of experience in Backend Java development, I'm passionate about bui
 Here are some ideas to get you started:-->
 
 🔭 Tech Stack 
-- Backend:
-
+Backend:
 - Java (OOP)
 - Spring Boot
 - SQL
 - DBMS
 - JUnit
-Postman
+- Postman
 
 Frontend:
 - HTML, CSS
@@ -25,16 +24,15 @@ Frontend:
 - Figma
 
 Other:
-Node.js
-Express.js
-PostgreSQL
-Docker
-Generative OpenAI
+- Node.js
+- Express.js
+- PostgreSQL
+- Docker
+- Generative OpenAI
 
-- 💼 Experience
+💼 Experience
 - Backend Developer (5 years)
-
-Developed and maintained Java-based applications
+- - Developed and maintained Java-based applications
 
 Implemented RESTful APIs using Spring Boot
 
