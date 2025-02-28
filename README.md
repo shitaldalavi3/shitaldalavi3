@@ -1,32 +1,16 @@
 ### Hi there 👋  I'm Shital Dalavi
 Backend Developer | Full Stack Entusiast 
-With 5 years of experience in Backend Java development, I'm passionate about building robust and scalable applications. Recently, I've expanded my skills to include Full Stack development, embracing new technologies and methodologies.
+, a Backend Developer with 5 years of experience, now diving into the Full Stack world. I'm passionate about building efficient and user-friendly applications.
 
-🔭 Tech Stack 
-Backend:
-- Java (OOP)
-- Spring Boot
-- SQL
-- DBMS
-- JUnit
-- Postman
+### 🔭 Tech Stack 
+*   **Backend:** Java, Spring Boot, SQL, DBMS
+*   **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Daisy UI
+*   **Tools & Technologies:** Node.js, Express.js, PostgreSQL, Docker, Generative OpenAI, JUnit, Postman
+### ✨ Non-Coding Skills
+*   Agile Methodologies
+*   UML Design
 
-Frontend:
-- HTML, CSS
-- JavaScript
-- React
-- Tailwind CSS
-- Daisy UI
-- Figma
-
-Other:
-- Node.js
-- Express.js
-- PostgreSQL
-- Docker
-- Generative OpenAI
-
-💼 Experience
+### 💼 Experience
 - Backend Developer (5 years)
   - Developed and maintained Java-based applications
   - Implemented RESTful APIs using Spring Boot
