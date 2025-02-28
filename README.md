@@ -28,5 +28,5 @@ Backend Developer with 5 years of experience, now diving into the Full Stack wor
 - Internet of Things(IoT)
 
 📫 How to reach me 
-LinkedIn : www.linkedin.com/in/shital-dalavi
+- LinkedIn : www.linkedin.com/in/shital-dalavi
 
