@@ -32,7 +32,7 @@ Other:
 
 💼 Experience
 - Backend Developer (5 years)
-- - Developed and maintained Java-based applications
+  - Developed and maintained Java-based applications
 
 Implemented RESTful APIs using Spring Boot
 
