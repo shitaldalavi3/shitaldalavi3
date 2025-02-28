@@ -22,11 +22,11 @@ Backend Developer | Full Stack Entusiast
   - Integrated PostgreSQL databases with backend services
   - Explored AI integration with Generative OpenAI
   
-🌱 I’m currently learning ...
+🌱 I’m currently learning
 - Artificial Intelligence and Machine Learning
 - Generative AI
 - Internet of Things(IoT)
 
-📫 How to reach me: ...
-LinkedIn :www.linkedin.com/in/shital-dalavi
+📫 How to reach me 
+LinkedIn : www.linkedin.com/in/shital-dalavi
 
